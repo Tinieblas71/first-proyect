@@ -1,0 +1,1 @@
+ <h3 class="ola">Hello, this was my first project that I managed to do after many html and css courses, I also added and used part of the Srcollreveal library to make a very basic animation. But this may seem like little but it means a lot to me. Thank you and keep practicing.</h3>
